@@ -1,0 +1,26 @@
+[02-Jun-2020 09:06:46] NOTICE: fpm is running, pid 3655
+[02-Jun-2020 09:06:46] NOTICE: ready to handle connections
+[02-Jun-2020 12:11:13] ERROR: Another FPM instance seems to already listen on /home/daniella/.config/Local/run/O1dk-JR8w/php/php-fpm.socket
+[02-Jun-2020 12:11:13] ERROR: FPM initialization failed
+[02-Jun-2020 12:11:13] ERROR: Another FPM instance seems to already listen on /home/daniella/.config/Local/run/O1dk-JR8w/php/php-fpm.socket
+[02-Jun-2020 12:11:13] ERROR: FPM initialization failed
+[02-Jun-2020 12:11:14] ERROR: Another FPM instance seems to already listen on /home/daniella/.config/Local/run/O1dk-JR8w/php/php-fpm.socket
+[02-Jun-2020 12:11:14] ERROR: FPM initialization failed
+[02-Jun-2020 12:11:15] ERROR: Another FPM instance seems to already listen on /home/daniella/.config/Local/run/O1dk-JR8w/php/php-fpm.socket
+[02-Jun-2020 12:11:15] ERROR: FPM initialization failed
+[03-Jun-2020 08:38:14] NOTICE: fpm is running, pid 10906
+[03-Jun-2020 08:38:14] NOTICE: ready to handle connections
+[03-Jun-2020 08:39:48] ERROR: Another FPM instance seems to already listen on /home/daniella/.config/Local/run/O1dk-JR8w/php/php-fpm.socket
+[03-Jun-2020 08:39:48] ERROR: FPM initialization failed
+[03-Jun-2020 08:39:49] ERROR: Another FPM instance seems to already listen on /home/daniella/.config/Local/run/O1dk-JR8w/php/php-fpm.socket
+[03-Jun-2020 08:39:49] ERROR: FPM initialization failed
+[03-Jun-2020 08:39:50] ERROR: Another FPM instance seems to already listen on /home/daniella/.config/Local/run/O1dk-JR8w/php/php-fpm.socket
+[03-Jun-2020 08:39:50] ERROR: FPM initialization failed
+[03-Jun-2020 08:39:51] ERROR: Another FPM instance seems to already listen on /home/daniella/.config/Local/run/O1dk-JR8w/php/php-fpm.socket
+[03-Jun-2020 08:39:51] ERROR: FPM initialization failed
+[03-Jun-2020 08:44:10] NOTICE: fpm is running, pid 1841
+[03-Jun-2020 08:44:10] NOTICE: ready to handle connections
+[03-Jun-2020 21:20:48] NOTICE: fpm is running, pid 7479
+[03-Jun-2020 21:20:48] NOTICE: ready to handle connections
+[04-Jun-2020 09:56:11] NOTICE: fpm is running, pid 4067
+[04-Jun-2020 09:56:11] NOTICE: ready to handle connections
